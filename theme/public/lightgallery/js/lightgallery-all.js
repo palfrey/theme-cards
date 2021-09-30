@@ -2124,7 +2124,7 @@
     'use strict';
 
     var defaults = {
-        videoMaxWidth: '855px',
+        videoMaxWidth: '90%',
         youtubePlayerParams: false,
         vimeoPlayerParams: false,
         dailymotionPlayerParams: false,
